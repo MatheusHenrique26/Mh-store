@@ -1,2 +1,2 @@
 # Mh-store
-Projeto pessoal ,usando a base do curso de css flexbox
+Projeto pessoal ,usando a base do curso de css grid
